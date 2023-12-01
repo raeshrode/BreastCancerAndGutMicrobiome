@@ -1,0 +1,44 @@
+﻿Run,Name,Group,Primary Diagnosis,ClinicalT,ClinicalN,ClinicalM,Chemo Therapy,Elston-Ellis Grade,Hormone Therapy,HT Type,Radiation Therapy,BMIGroup,Post/Pre menopausal ,Baseline Clinical Stage,ER,PR,HER2
+SRR21187646,BMER0567,BC,IDC + DCIS,T1,N0,M0,No,G2,No,,Yes,>25,Post,I,Positive (>10%),Positive (>10%),Neg/Neu
+SRR21187645,BMER0646,BC,ILC + LCIS,T1,N0,M0,No,G2,Yes,Nolvadex,No,>25,Post,I,Positive (>10%),Positive (>10%),Neg/Neu
+SRR21187634,BMER0844,BC,IDC + DCIS,T1b,N1,M0,No,G1,Yes,Nolvadex,No,>25,Post,IIA,Positive (>10%),Positive (>10%),Neg/Neu
+SRR21187623,BMER1112,BC,IDC + DCIS,T1,N0,M0,No,G1,Yes,Nolvadex,No,<25,Post,I,Positive (>10%),Positive (>10%),Neg/Neu
+SRR21187612,BMER1128,BC,IDC,T1,N1,M0,No,G2,No,,Yes,>25,Post,IIA,Negative (0),Negative (0),Neg/Neu
+SRR21187608,BMER1318,BC,IDC + DCIS,T1mic,N0,M0,Yes,G3,No,,Yes,>25,Post,I,Negative (0),Negative (0),Neg/Neu
+SRR21187607,BMER1334,BC,IDC + DCIS,T1b,N0,M0,No,G2,Yes,Nolvadex,No,<25,Post,I,Positive (>10%),Positive (>10%),Neg/Neu
+SRR21187606,BMER1412,BC,IDC,T2,N0,M0,No,G2,Yes,Arimidex,No,>25,Post,IIA,Positive (>10%),Negative (0),Neg/Neu
+SRR21187605,BMER1523,BC,ILC,T2,N0,M0,No,G2,Yes,Nolvadex,No,<25,Post,IIA,Positive (>10%),Positive (>10%),Neg/Neu
+SRR21187604,BMER1585,BC,IDC + DCIS,T2,N0,M0,No,G3,Yes,Nolvadex,Yes,<25,Post,IIA,Positive (>10%),Negative (0),Positive
+SRR21187644,BMER1590,BC,IDC + DCIS,T1b,N0,M0,Yes,G2,No,,Yes,>25,Post,I,Negative (0),Negative (0),Neg/Neu
+SRR21187643,BMER1597,BC,IDC,Tis,N0,M0,No,G1,Yes,Aromasin,No,<25,Post,I,Positive (>10%),Positive (>10%),Neg/Neu
+SRR21187642,BMER1690,BC,IDC + LCIS,T1c,N0,M0,No,G2,Yes,Femara,No,<25,Post,I,Positive (>10%),Positive (>10%),Neg/Neu
+SRR21187641,BMER1691,BC,IDC + DCIS,T1c,N0,M0,No,G1,Yes,Arimidex,Yes,<25,Post,I,Positive (>10%),Positive (>10%),Neg/Neu
+SRR21187640,BMER1695,BC,IDC + DCIS,T1,N0,M0,Yes,G3,Yes,Nolvadex,Yes,<25,Pre,I,Positive (>10%),Positive (>10%),Neg/Neu
+SRR21187639,BMER1747,BC,IDC,T1c,N0,M0,Yes,G2,Yes,Arimidex,Yes,>25,Post,I,Positive (>10%),Positive (>10%),Neg/Neu
+SRR21187638,BMER1748,BC,"IDC, Adenocarcinoma",T2,N0,M0,No,G3,Yes,Femara,No,>30,Post,IIA,Positive (>10%),Positive (>10%),Neg/Neu
+SRR21187637,BMER1791,BC,IDC + DCIS,T1c,N1,M0,No,G2,Yes,Arimidex,Yes,>30,Post,I,Positive (>10%),Positive (>10%),Neg/Neu
+SRR21187636,BMER1826,BC,IDC,T1c,N0,M0,No,G3,No,,No,>25,Unknown,IIB,Negative (0),Negative (0),Neg/Neu
+SRR21187635,BMER1907,BC,"ILC, Ductal Hyperplasia, Intraductal Papilloma",T2,N0,M0,No,G1,Yes,Femara,No,>30,Post,I,Positive (>10%),Positive (>10%),Neg/Neu
+SRR21187633,BMER1920,BC,"LCIS, ILC, Adenocarcinoma",T2,N0,M0,No,G2,Yes,Nolvadex,No,<25,Post,I,Positive (>10%),Positive (>10%),Neg/Neu
+SRR21187632,BMER2007,BC,"Ductal Hyperplasia, IDC + DCIS",T1,N0,M0,No,G2,Yes,Arimidex,No,>30,Post,I,Positive (>10%),Positive (>10%),Neg/Neu
+SRR21187631,HC10,HC,,,,,,,,,,,,,,,
+SRR21187630,HC15,HC,,,,,,,,,,,,,,,
+SRR21187629,HC18,HC,,,,,,,,,,,,,,,
+SRR21187628,HC27,HC,,,,,,,,,,,,,,,
+SRR21187627,HC28,HC,,,,,,,,,,,,,,,
+SRR21187626,HC30,HC,,,,,,,,,,,,,,,
+SRR21187625,HC34,HC,,,,,,,,,,,,,,,
+SRR21187624,HC36,HC,,,,,,,,,,,,,,,
+SRR21187622,HC4,HC,,,,,,,,,,,,,,,
+SRR21187621,HC44,HC,,,,,,,,,,,,,,,
+SRR21187620,HC48,HC,,,,,,,,,,,,,,,
+SRR21187619,HC59,HC,,,,,,,,,,,,,,,
+SRR21187618,HC66,HC,,,,,,,,,,,,,,,
+SRR21187617,HC7,HC,,,,,,,,,,,,,,,
+SRR21187616,HC72,HC,,,,,,,,,,,,,,,
+SRR21187615,HC74,HC,,,,,,,,,,,,,,,
+SRR21187614,HC77,HC,,,,,,,,,,,,,,,
+SRR21187613,HC8,HC,,,,,,,,,,,,,,,
+SRR21187611,HC80,HC,,,,,,,,,,,,,,,
+SRR21187610,HC85,HC,,,,,,,,,,,,,,,
+SRR21187609,HC86,HC,,,,,,,,,,,,,,,
